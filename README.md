@@ -44,7 +44,7 @@ A complete, production-ready SaaS solution for restaurant online ordering built 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/SplashOrder.git
+git clone https://github.com/ahmedsaadawi13/SplashOrder.git
 cd SplashOrder
 ```
 
@@ -534,7 +534,7 @@ This project is open-source software for educational and demonstration purposes.
 ## Support
 
 For issues and questions:
-- GitHub Issues: [https://github.com/yourusername/SplashOrder/issues](https://github.com/yourusername/SplashOrder/issues)
+- GitHub Issues: [https://github.com/ahmedsaadawi13/SplashOrder/issues](https://github.com/ahmedsaadawi13/SplashOrder/issues)
 
 ---
 
